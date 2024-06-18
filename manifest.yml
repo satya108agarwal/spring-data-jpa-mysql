@@ -1,0 +1,12 @@
+applications:
+  - name: springdatamysql
+    instances: 1
+    memory: 1G
+    disk_quota: 1G
+    buildpacks:
+      - java_buildpack_offline
+    services:
+      - mysql-service
+    path: target/spring-data-jpa-mysql-1.0.jar
+    env:
+      JBP_CONFIG_OPEN_JDK_JRE: '{ jre: { version: 17.+ } }'

@@ -1,0 +1,5 @@
+com/springdatamysql/StartApplication.class
+com/springdatamysql/book/Book.class
+com/springdatamysql/book/BookService.class
+com/springdatamysql/book/BookRepository.class
+com/springdatamysql/book/BookController.class

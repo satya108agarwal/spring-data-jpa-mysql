@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.springdatamysql.BookControllerTest
+-------------------------------------------------------------------------------
+Tests run: 6, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 13.685 s - in com.springdatamysql.BookControllerTest
